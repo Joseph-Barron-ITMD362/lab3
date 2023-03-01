@@ -22,6 +22,25 @@ fieldset {
   padding: 1rem 0;
 }
 
+legend {
+  font-weight: bold;
+  text-decoration: underline;
+  margin-bottom: 1rem;
+}
+
+div {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  background-color: #f6f6f6;
+  border-radius: 0.25rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
 
 /*
 body {
